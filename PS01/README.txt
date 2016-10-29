@@ -1,0 +1,1 @@
+The Prim algorithm doesn’t completely work. I tried my best to make it work. 
